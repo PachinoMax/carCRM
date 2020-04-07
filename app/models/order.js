@@ -11,7 +11,8 @@ const orderSchema = new Schema(
         count: Number,
         sum: Number,
         is_debt: Boolean,
-        debt_date: Date
+        debt_date: Date,
+        guaranty: Number
     },
     {versionKey: false}
 );

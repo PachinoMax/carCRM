@@ -6,3 +6,5 @@ require('./carBody');
 require('./carModel');
 require('./cars');
 require('./storage');
+require('./detail');
+require('./order');
