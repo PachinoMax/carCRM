@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a2e49b6-b054-4ec0-8600-f1db8f1d8a1e" name="Default Changelist" comment="" />
+    <list default="true" id="2a2e49b6-b054-4ec0-8600-f1db8f1d8a1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="C:/Program Files/nodejs/node_modules/npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Node.js.server.js">
     <configuration name="server.js" type="NodeJSConfigurationType" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
@@ -89,7 +93,8 @@
       <workItem from="1585668906192" duration="465000" />
       <workItem from="1585669387852" duration="209000" />
       <workItem from="1585669612390" duration="610000" />
-      <workItem from="1585670317816" duration="55799000" />
+      <workItem from="1585670317816" duration="60020000" />
+      <workItem from="1586340879119" duration="200000" />
     </task>
     <servers />
   </component>
@@ -121,10 +126,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="417" y="126" key="EnvironmentVariablesDialog/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1585669098720" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1585670069963">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1586258329288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1585670069963" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1586258329288" />
     <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1585670514750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -189,18 +194,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.3.right/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1585670514752" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1585668873691">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586258353015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1585668873691" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1586258353015" />
     <state x="244" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585667688881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="244" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1585667688881" />
-    <state x="-1406" y="191" width="1034" height="508" maximized="true" key="dock-window-1" timestamp="1586244208631">
+    <state x="-1406" y="191" width="1034" height="508" key="dock-window-1" timestamp="1586341085731">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state x="-1406" y="191" width="1034" height="508" maximized="true" key="dock-window-1/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1586244208631" />
+    <state x="-1406" y="191" width="1034" height="508" key="dock-window-1/0.0.1366.728/-1920.0.1920.1160@0.0.1366.728" timestamp="1586341085731" />
     <state x="400" y="172" key="jetbrains.nodejs.interpreters-dialog" timestamp="1585667926856">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

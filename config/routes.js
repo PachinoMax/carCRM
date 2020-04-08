@@ -6,6 +6,7 @@ const carBodies = require('../app/controllers/carBodies');
 const cars = require('../app/controllers/cars');
 const storages = require('../app/controllers/storages');
 const details = require('../app/controllers/details');
+const orders = require('../app/controllers/orders');
 const authMiddleware = require('../app/middleware/auth');
 
 module.exports = (app) => {
@@ -54,7 +55,11 @@ module.exports = (app) => {
     app.put('/details/:id', details.updateDetails);
     app.get('/details/:id', details.findDetailsById);
     app.delete('/details/:id', details.removeDetails);
-
-    
+    //orders
+    app.get('/orders', orders.getAllOrders);
+    app.post('/orders/add', orders.createOrders);
+    app.put('/orders/:id', orders.updateOrders);
+    app.get('/orders/:id', orders.findOrdersById);
+    app.delete('/orders/:id', orders.removeOrders);
 
 };
